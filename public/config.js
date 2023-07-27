@@ -1,12 +1,12 @@
 window.Config = {
 
   // show title
-  SiteName: 'Public Status',
+  SiteName: 'Links OBA',
 
   // UptimeRobot Api Keys
   // Support Monitor-Specific and Read-Only
   ApiKeys: [
-    'ur2236546-b1616f5df1d995dfc4944659',
+    'ur2232829-66551b503cf2f439ec770a65',
   ],
 
   // log days
@@ -19,15 +19,15 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: 'https://opiceblum.com.br/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://github.com/moisesoliveira475/uptime-status-react'
     },
     {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
+      text: 'LinkedIn',
+      url: 'https://www.linkedin.com/company/opiceblum/mycompany/'
     },
   ],
 };
